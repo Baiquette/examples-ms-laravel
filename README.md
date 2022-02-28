@@ -7,3 +7,5 @@ Il existe 2 dossiers :
 * "my-database" est une application "serveur" qui simulera un micro-service.
 
 Les consignes sont dans les README de chacune des applications.
+
+De plus, chaque application devra fournir un Dockerfile et les consignes permettant de lancer les 2 applications via Docker ou Docker Compose.
